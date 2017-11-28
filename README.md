@@ -1,5 +1,5 @@
 # Find-Restaurant-By-Meal-And-Location
-This project uses the Google Maps Geolocation API as well as the Foursquare API to find a restaurant for a given meal type and location
+This project uses the Google Maps Geolocation API as well as the Foursquare API to find a restaurant for a given meal type and location. The user can specify the radius, the meal type, and the location. If there is no restaurant within the given radius, an error message is displayed in the console. All found restaurants are listed in the console with the name, the adress, and a link to the restaurant image. If no image is available, a link to a default image is provided instead. The function returns only the first restaurant.
 
 ## Getting started
 1. For this project you need to set up a Google Developer Account for the Google Maps Geolocation API.
